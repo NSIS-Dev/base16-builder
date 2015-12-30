@@ -14,54 +14,7 @@ Build only the "default" theme
 Build a scheme stored on some webspace.
 
 ## Templates
-* Atom
-* BBEdit (TextWrangler)
-* Chrome DevTools (Web Inspector)
-* Chrome Secure Shell
-* CodeMirror
-* ConEmu
-* Console2
-* DrRacket
-* Emacs
-* Escape Code Shell Script (shell)
-* Geany
-* Gedit
-* Gimp Palette
-* Gnome Terminal
-* Guake
 * highlight.js
-* Highlighting Kate
-* HTML Preview (preview)
-* IDEA
-* IPython Notebook
-* iTerm 2
-* Konsole
-* Mate Terminal
-* MinTTY
-* MultiMarkdown Composer 2 (mmdc2)
-* Mou
-* Notepad++
-* OS X Terminal (terminal-app)
-* Pantheon Terminal
-* prettify.js
-* Prism.js
-* PuTTY
-* Pygments
-* Qt Creator
-* Rainbow
-* Rouge
-* Terminator
-* Termite
-* Textadept
-* TextMate (Sublime Text)
-* Vim
-* Visual Studio
-* Virtual Console (vconsole)
-* Windows Command Prompt
-* Xcode
-* XFCE4 Terminal
-* Xresources
-* Zathura
 
 ## Maintainers
 * [chriskempson](https://github.com/chriskempson) - HTML Preview, Vim, TextMate, iTerm 2, XFCE4 Terminal, Mou, Escape Code Shell Script, Gnome Terminal, BBEdit
