@@ -1,16 +1,17 @@
 /*
-
-    Name:       Base16 <%= @scheme %> Dark
-    Author:     <%= @author %>
-
-    highlight.js v8.0 template by Jan T. Sott (https://github.com/idleberg/base16-highlight.js)
-    Original Base16 color scheme by Chris Kempson (https://github.com/chriskempson/base16)
-
+ *   Name: <%= @scheme %> light
+ * Author: <%= @author %>
+ * 
+ * highlight.js v8.0 template by Jan T. Sott (https://github.com/idleberg/base16-highlight.js)
 */
+
+pre {
+  background: #<%= @base["07"]["hex"] %>;
+}
 
 /* <%= @scheme %> Comment */
 .hljs-comment {
-  color: #<%= @base["04"]["hex"] %>;
+  color: #<%= @base["03"]["hex"] %>;
 }
 
 /* <%= @scheme %> Red */
@@ -99,8 +100,8 @@
 .hljs {
   display: block;
   overflow-x: auto;
-  background: #<%= @base["00"]["hex"] %>;
-  color: #<%= @base["05"]["hex"] %>;
+  background: #<%= @base["07"]["hex"] %>;
+  color: #<%= @base["02"]["hex"] %>;
   padding: 0.5em;
   -webkit-text-size-adjust: none;
 }
